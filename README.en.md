@@ -1,3 +1,5 @@
+Available in: English | [Português](README.pt.md) | [Español](README.es.md)
+
 SlideshowEZ was created to be a simple, fast, and straightforward slideshow viewer,
 serving as a lightweight and more capable replacement for the old Windows slideshow
 viewer that was removed in Windows 11.
