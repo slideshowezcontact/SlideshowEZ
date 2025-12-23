@@ -1,3 +1,7 @@
+SlideshowEZ
+
+Disponible en: [English](README.md) | [Português](README.pt.md)
+
 SlideshowEZ fue creado para ser un visor de diapositivas simple, rápido y directo,
 reemplazando con ligereza y más herramientas al antiguo visor de diapositivas de
 Windows que fue eliminado en Windows 11.
