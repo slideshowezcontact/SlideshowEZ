@@ -63,4 +63,4 @@ CONTATO
 
 Para licenciamento comercial, dúvidas ou sugestões:
 
-Email: eduardofaro@uol.com.br
+Email: slideshowez.contact@gmail.com
