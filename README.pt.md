@@ -1,5 +1,7 @@
 SlideshowEZ
 
+Disponível em: [English](README.md) | [Español](README.es.md)
+
 SlideshowEZ é um visualizador de slides simples, rápido e direto para Windows.
 Ele foi criado para substituir o antigo visualizador de slides que existia no Windows
 e foi removido nas versões mais recentes do sistema.
