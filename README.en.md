@@ -1,3 +1,5 @@
+SlideshowEZ
+
 Available in: English | [Português](README.pt.md) | [Español](README.es.md)
 
 SlideshowEZ was created to be a simple, fast, and straightforward slideshow viewer,
