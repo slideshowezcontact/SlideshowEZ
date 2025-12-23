@@ -1,3 +1,5 @@
+SlideshowEZ
+
 Creative Commons Attribution-NonCommercial 4.0 International
 (CC BY-NC 4.0)
 
@@ -34,5 +36,6 @@ This license applies to the SlideshowEZ software.
 
 Free for personal and non-commercial use.
 Commercial use requires prior authorization from the author.
+
 
 Email: slideshowez.contact@gmail.com
