@@ -10,7 +10,7 @@ viewer that was removed in Windows 11.
 The goal is to allow you to open folders or image files and view your photos
 immediately, without complications and without modifying anything on your system.
 
-Also, when you find an image that interests you, just right click an choose "open the folder that contains this image". Or, right click and choose to follow that image in the slideshow.
+Also, when you find an image that interest you, just right click an choose "open the folder that contains this image". Or, right click and choose to follow that image in the slideshow.
 
 
 HOW TO START THE SLIDESHOW
